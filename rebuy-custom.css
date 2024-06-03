@@ -1,0 +1,164 @@
+.rebuy-product-price {
+    display: none;
+}
+.rebuy-product-checkbox {
+    display: none;
+}
+.rebuy-product-options {
+    margin-left: 0 !important;
+}
+.rebuy-color-swatches {
+    justify-content: flex-start;
+}
+label.rebuy-size-label {
+    border-radius: 0;
+}
+.rebuy-bundle__actions {
+    order: 4 !important;
+}
+.rebuy-bundle__actions-price {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100% !important;
+}
+.rebuy-bundle__actions-buttons {
+    width: 100% !important;
+}
+button.rebuy-button {
+    border-radius: 0 !important;
+    border: 0;
+}
+.rebuy-product-block {
+    padding-top: 12px !important;
+}
+h4.super-title { 
+    margin-bottom: 15px !important;
+}
+div#rebuy-widget-136689 {
+    padding-top: 15px;
+}
+.rebuy-variant-title {
+    margin-bottom: 0 !important;
+    margin-left: 12px !important;
+    line-height: 24px;
+}
+.variant-inline-style {
+    display: flex;
+    margin-bottom: 10px;
+}
+.variant-img-style {
+    max-width: 100px;
+}
+.bundle-product-index-style {
+    padding-left: 6px;
+}
+.rebuy-product-info {
+    display: flex;
+    align-items: center;
+}
+.rpt-details {
+    padding: 10px;
+    margin-left: 50px;
+    text-decoration: underline;
+}
+.rebuy-widget .rebuy-product-block.is-input-product {
+    display: none;
+}
+label.rebuy-color-label.disabled-field {
+      cursor: not-allowed;
+      pointer-events: none;
+      border: 2px solid #000;
+      position: relative;
+  }
+label.rebuy-color-label.disabled-field::after {
+    position: absolute;
+    content: "";
+    left: 50%;
+    top: 0;
+    bottom: 0;
+    border-left: 1.5px solid;
+    border-color: #0b1324;
+    border-color: var(--colorBorder);
+    transform: rotate(45deg);
+    z-index: 2;
+}
+label.rebuy-color-label.disabled-field::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    border: 3px solid #fff;
+    z-index: 1;
+    border-radius: 50%;
+}
+
+/* Yalda Bundle */
+.media-Yalda-Bedding-Bundle {
+  background: url("https://cdn.shopify.com/s/files/1/0013/3922/8218/t/102/assets/YaldaBundle1-_0036_background.png?v=1711421914");
+}
+.media-Yalda-Bedding-Bundle .product__thumbs.product__thumbs--beside {
+  display: none !important;
+}
+.media-Yalda-Bedding-Bundle .product-main-slide {
+    transform: translateX(0%) !important;
+}
+.media-Yalda-Bedding-Bundle .image-wrap {
+    background: transparent !important;
+}
+.media-Yalda-Bedding-Bundle .flickity-page-dots {
+    display: none;
+}
+
+/* Ultra Sateen Bundle  */
+.media-Ultra-Sateen-Bedding-Bundle {
+  background: url("https://cdn.shopify.com/s/files/1/0013/3922/8218/t/102/assets/YaldaBundle1-_0036_background.png?v=1711421914");
+}
+.media-Ultra-Sateen-Bedding-Bundle .product__thumbs.product__thumbs--beside {
+  display: none !important;
+}
+.media-Ultra-Sateen-Bedding-Bundle .product-main-slide {
+    transform: translateX(0%) !important;
+}
+.media-Ultra-Sateen-Bedding-Bundle .image-wrap {
+    background: transparent !important;
+}
+.media-Ultra-Sateen-Bedding-Bundle .flickity-page-dots {
+    display: none;
+}
+
+/* Ultra Percale Bundle  */
+.media-Ultra-Percale-Bedding-Bundle {
+  background: url("https://cdn.shopify.com/s/files/1/0013/3922/8218/t/102/assets/YaldaBundle1-_0036_background.png?v=1711421914");
+}
+.media-Ultra-Percale-Bedding-Bundle .product__thumbs.product__thumbs--beside {
+  display: none !important;
+}
+.media-Ultra-Percale-Bedding-Bundle .product-main-slide {
+    transform: translateX(0%) !important;
+}
+.media-Ultra-Percale-Bedding-Bundle .image-wrap {
+    background: transparent !important;
+}
+.media-Ultra-Percale-Bedding-Bundle .flickity-page-dots {
+    display: none;
+}
+
+/* Triple Luxe Bundle  */
+.media-Triple-Luxe-Sateen-Bedding-Bundle {
+  background: url("https://cdn.shopify.com/s/files/1/0013/3922/8218/t/102/assets/YaldaBundle1-_0036_background.png?v=1711421914");
+}
+.media-Triple-Luxe-Sateen-Bedding-Bundle .product__thumbs.product__thumbs--beside {
+  display: none !important;
+}
+.media-Triple-Luxe-Sateen-Bedding-Bundle .product-main-slide {
+    transform: translateX(0%) !important;
+}
+.media-Triple-Luxe-Sateen-Bedding-Bundle .image-wrap {
+    background: transparent !important;
+}
+.media-Triple-Luxe-Sateen-Bedding-Bundle .flickity-page-dots {
+    display: none;
+}
